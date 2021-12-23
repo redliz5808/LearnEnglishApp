@@ -31,4 +31,5 @@ Feel free to give me feedback, but keep a few things in mind:
 * I spent very little time making this.
 
 **Image Credit**
+
 The xenomorph image was retrieved from [Google Image Search](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.polygon.com%2F2017%2F12%2F14%2F16776452%2Fdisney-princesses-alien-queen&psig=AOvVaw06yVN3ENA6NOJbBW1qhS_q&ust=1640357694565000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJipod-W-vQCFQAAAAAdAAAAABAD). All other images were retrieved from [Pixabay.com](https://pixabay.com/).
