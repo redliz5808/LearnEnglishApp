@@ -23,6 +23,7 @@ I was inspired to complete this based on a post in a JavaScript forum. As of 12/
 * I also added the div that displays the letter (in uppercase and lowercase) and the name of the image because how are you going to learn English if you aren't sure what's in the picture?
 
 **Notes**
+
 Feel free to give me feedback, but keep a few things in mind:
 * This was a side project I did in my spare time FOR FUN.
 * I'm not a designer so the GUI is super simple and lame.
