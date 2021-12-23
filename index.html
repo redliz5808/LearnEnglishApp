@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alphabet Practice</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="heading">
+      <h1>Let's Learn English</h1>
+    </div>
+    <div id="formContainer">
+      <form action="#" method="get">
+        <label for="numOfNums">How many letters would you like to learn?</label>
+        <input type="number" max="26" min="1" id="numOfNums" />
+        <button id="submitBtn">Let's Learn!</button>
+        <div id="errorMsg">
+          <p>Please enter a number between 1 and 26.</p>
+        </div>
+      </form>
+    </div>
+    <hr />
+    <div id="resultsContainer">
+      <div id="lettersToStudy"></div>
+      <div id="currentLetterContainer">
+        <button id="randomizeImageBtn">New random image that starts with <span id="randomImageLetter"></span></button>
+        <div><span id="currentLetter"></span> is for <span id="currentImageName">Apple (apple)</span></div>
+        <img src="./images/apple.jpg" alt="apple" id="displayedImage" />
+      </div>
+    </div>
+    <script type="text/javascript" src="utils/alphabet.json"></script>
+    <script type="text/javascript" src="app.js"></script>
+  </body>
+</html>
